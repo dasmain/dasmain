@@ -31,23 +31,6 @@ I enjoy solving complex problems, building scalable applications, and continuous
 
 ---
 
-## 🌟 Top Projects
-
-### [Clue](https://cluebycandlelight.com/)  
-**MERN Stack**  
-- A freelance project enabling users to read books and solve problems.  
-- [View Code](https://github.com/Dijinx-Lab/Clue-Website)  
-
-### [Smart Attendance](https://github.com/Dijinx-Lab/Smart-Attendance)  
-**MERN Stack, Python, PyTorch, OpenCV, TensorFlow**  
-- Developed a facial recognition system for classroom attendance using Python and TensorFlow.  
-
-### [Scavenger Hunt Server](https://github.com/Dijinx-Lab/Scavenger-Hunt-Server)  
-**Node.js**  
-- Backend server for a scavenger hunt application.  
-
----
-
 ## 📫 Let's Connect!
 - **GitHub**: [dasmain](https://github.com/dasmain)  
 - **LinkedIn**: [Diyan Ali Shaikh](#)  
