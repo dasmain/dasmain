@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a passionate Software Engineer actively practicing and enhancing my skills in full-stack development. Currently, I'm working as a **Junior MERN Stack Developer**, where I contribute to building innovative solutions in medical imaging and healthcare technology. I hold a **Bachelor's degree in Software Engineering** from Bahria University, where I graduated with a **3.81 CGPA** and received a merit scholarship for academic excellence.  
+I am a passionate Software Engineer actively practicing and enhancing my skills in full-stack development. Currently, I'm working as a **MERN Stack Developer**, where I contribute to building innovative solutions in medical imaging and healthcare technology. I hold a **Bachelor's degree in Software Engineering** from Bahria University, where I graduated with a **3.81 CGPA** and received a merit scholarship for academic excellence.  
 
 I enjoy solving complex problems, building scalable applications, and continuously learning about new technologies to expand my skillset.  
 
