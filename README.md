@@ -6,17 +6,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer who builds scalable web applications across the MERN/MEAN stack, and lately I've been spending most of my time at the intersection of backend engineering and applied AI — Agentic AI systems and Retrieval-Augmented Generation (RAG). I care about clean architecture, solid API design, and writing code that's actually maintainable, not just functional. Outside of pure web dev, I've worked on real-time systems, healthcare-grade data integrations, and AI-powered tooling — always looking for the next stack to get comfortable in.
+I'm a Full Stack Software Engineer who builds scalable web applications across the MERN/MEAN stack, and lately I've been spending most of my time at the intersection of backend engineering and applied AI: Agentic AI systems and Retrieval-Augmented Generation (RAG). I care about clean architecture, solid API design, and writing code that's actually maintainable, not just functional. Outside of pure web dev, I've worked on real-time systems, healthcare-grade data integrations, and AI-powered tooling, always looking for the next stack to get comfortable in.
 
 ---
 
 ## 🧰 What I Work With
 
 - **Full-stack web development** across MERN, MEAN, NestJS, and Spring Boot
-- **AI-driven backend systems** — Agentic AI development and RAG pipelines
-- **API & database design** — RESTful APIs, PostgreSQL, MongoDB, clean scalable schemas
-- **Real-time & interoperable systems** — real-time communication tools, third-party/standardized data integrations
-- **Cloud & infra basics** — AWS, Docker, Git-based workflows
+- **AI-driven backend systems**: Agentic AI development and RAG pipelines
+- **API & database design**: RESTful APIs, PostgreSQL, MongoDB, clean scalable schemas
+- **Real-time & interoperable systems**: real-time communication tools, third-party/standardized data integrations
+- **Cloud & infra basics**: AWS, Docker, Git-based workflows
 
 ---
 
