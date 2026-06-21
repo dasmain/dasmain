@@ -70,5 +70,6 @@ I'm a Full Stack Software Engineer who builds scalable web applications across t
 ## 📫 Let's Connect!
 
 - **GitHub**: [dasmain](https://github.com/dasmain)
-- **LinkedIn**: [Diyan Ali Shaikh](https://www.linkedin.com/)
+- **LinkedIn**: [Diyan Ali Shaikh](https://www.linkedin.com/in/diyan-ali-shaikh-8ba62a1b4)
 - **Email**: shaikhdiyanali01@gmail.com
+- **Gumroad**: [Diyan Ali](https://diyanali.gumroad.com)
